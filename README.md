@@ -38,18 +38,18 @@ and <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&log
 <br>
 우주듀오 채팅 서버 : <a href="https://github.com/Esther2112/would-you-duo-chat">https://github.com/Esther2112/would-you-duo-chat</a>
 <br><br>
-<img width="500px" src="https://github.com/Esther2112/Esther2112/assets/120617717/4464e385-14a4-4022-ab85-bf0976de2d19"/>
-<br><br><br>
+<img width="700px" src="https://github.com/Esther2112/Esther2112/assets/120617717/4464e385-14a4-4022-ab85-bf0976de2d19"/>
+<br><br><br><br>
 sns 기능을 결합한 차세대 ERP : <a href="https://github.com/Esther2112/hrms-project">https://github.com/Esther2112/hrms-project</a>
 <br><br>
-<img width="500px" src="https://github.com/Esther2112/Esther2112/assets/120617717/ebdfba57-ee29-40a6-b5f9-94b59a4cb571"/>
-<br><br><br>
+<img width="700px" src="https://github.com/Esther2112/Esther2112/assets/120617717/ebdfba57-ee29-40a6-b5f9-94b59a4cb571"/>
+<br><br><br><br>
 순수자바 프로젝트 호텔예약 프로그램 : <a href="https://github.com/Esther2112/hotel-reservation-program">https://github.com/Esther2112/hotel-reservation-program</a>
 <br><br>
-<img width="300px" src="https://github.com/Esther2112/Esther2112/assets/120617717/9e3538c2-36cf-410d-b978-9b01353da8f6"/>
-<br><br><br>
+<img width="500px" src="https://github.com/Esther2112/Esther2112/assets/120617717/9e3538c2-36cf-410d-b978-9b01353da8f6"/>
+<br><br><br><br>
 미니게임 프로젝트 코로나블루 뿌셔뿌셔: <a href="https://github.com/Esther2112/minigame-project">https://github.com/Esther2112/minigame-project</a>
 <br><br>
-<img width="500px" src="https://github.com/Esther2112/Esther2112/assets/120617717/23dd4e86-073a-4ba7-b04e-8eecf388a3b5"/>
-<br><br><br>
+<img width="700px" src="https://github.com/Esther2112/Esther2112/assets/120617717/23dd4e86-073a-4ba7-b04e-8eecf388a3b5"/>
+<br><br><br><br>
 </div>
