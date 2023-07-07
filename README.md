@@ -4,7 +4,7 @@
 ### Skill Stack
 ***
 <br>
-<div style="text-align: center">
+<div align = center>
 <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=openJDK&logoColor=black">
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,7 +33,7 @@ and <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&log
 ### Team Project
 ***
 <br>
-<div style="text-align: center">
+<div align = center>
 실력과 인성이 보장된 롤게임 파트너 매칭 웹 우주듀오 : <a href="https://github.com/Esther2112/would-you-duo-me">https://github.com/Esther2112/would-you-duo-me</a>
 <br>
 우주듀오 채팅 서버 : <a href="https://github.com/Esther2112/would-you-duo-chat">https://github.com/Esther2112/would-you-duo-chat</a>
